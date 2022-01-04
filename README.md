@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcbresende" alt="fcbresende" /></a> </p>
 
-- 🌱 I’m currently learning **Backend (MySQL,Node JS,MongoDB)**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **fernandocastellob@gmail.com**
 
