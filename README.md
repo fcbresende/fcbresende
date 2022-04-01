@@ -1,11 +1,11 @@
-<h1 align="center">Oi 👋, Me chamo Fernando Resende (Ele/Dele)</h1>
-<h3 align="center">Bem vindo ao meu perfil :)</h3>
+<h1 align="center">Oi 👋, I'm Fernando Resende (He/Him)</h1>
+<h3 align="center">Welcome to my profile :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcbresende&label=Profile%20views&color=0e75b6&style=flat" alt="fcbresende" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcbresende" alt="fcbresende" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **fernandocastellob@gmail.com**
 
