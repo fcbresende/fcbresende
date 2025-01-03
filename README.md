@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo ao meu Perfil no GitHub!
 
-![Profile Banner](https://via.placeholder.com/1000x200?text=Bem-vindo+ao+meu+GitHub!)
+![Profile Banner](https://github.com/usuario/banner-perfil/raw/main/banner.png)
 
 ## 👋 Sobre Mim
 
