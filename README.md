@@ -1,14 +1,12 @@
 # 🌟 Bem-vindo ao meu Perfil no GitHub!
 
-![Profile Banner](https://github.com/usuario/banner-perfil/raw/main/banner.png)
-
 ## 👋 Sobre Mim
 
 🎓 **Desenvolvedor apaixonado** por tecnologia, resolução de problemas e aprendizado contínuo. Aqui você encontrará projetos que refletem minha jornada, habilidades e interesses. Adoro criar, colaborar e explorar o mundo do código.
 
-🌍 **Localização:** [Adicione sua localização aqui]  
-💼 **Atualmente trabalhando como:** [Adicione seu cargo atual]  
-📚 **Aprendendo:** [Liste aqui as tecnologias ou áreas de interesse atuais]  
+🌍 **Localização:** Teresina-PI
+💼 **Atualmente trabalhando como:** Customer Support Engineer
+📚 **Aprendendo:** Python, Machine Learning, IA.
 
 ---
 
@@ -37,8 +35,8 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?fcbresende&show_icons=true&theme=radical)
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?fcbresende&layout=compact&theme=radical)
 
 ---
 
@@ -46,7 +44,7 @@
 
 - 🌐 [Meu Website/Portfólio](https://seusite.com)
 - 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 📧 [Email](mailto:seu-email@example.com)
+- 📧 [Email](mailto:fernandocastellob@gmail.com)
 
 ---
 
