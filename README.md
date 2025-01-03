@@ -5,7 +5,9 @@
 🎓 **Desenvolvedor apaixonado** por tecnologia, resolução de problemas e aprendizado contínuo. Aqui você encontrará projetos que refletem minha jornada, habilidades e interesses. Adoro criar, colaborar e explorar o mundo do código.
 
 🌍 **Localização:** Teresina-PI
+
 💼 **Atualmente trabalhando como:** Customer Support Engineer
+
 📚 **Aprendendo:** Python, Machine Learning, IA.
 
 ---
@@ -35,8 +37,8 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?fcbresende&show_icons=true&theme=radical)
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?fcbresende&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fcbresende&show_icons=true&theme=radical)
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fcbresende&layout=compact&theme=radical)
 
 ---
 
